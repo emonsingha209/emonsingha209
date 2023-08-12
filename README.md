@@ -1,4 +1,4 @@
-### Emon Singha
+## Emon Singha
 Hi there 👋
 - 🔭 I’m currently working with ReactJs
 - 🌱 I’m currently learning NextJs
