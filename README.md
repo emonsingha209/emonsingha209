@@ -1,12 +1,10 @@
-## Emon Singha
-Hi there 👋
-- 🔭 I’m currently working with ReactJs
-- 🌱 I’m currently learning NextJs
-- 📫 How to reach me: <br>
-  <a href="mailto:emonsingha209@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-emonsingha209@gmail.com-red?style=flat&logo=gmail"></a>
+# Hi there, I'm Emon Singha! 👋
 
-![](https://komarev.com/ghpvc/?username=emonsingha209&color=grey&style=for-the-badge)
+👨‍💻 Working with **ReactJS** ![ReactJs](https://img.icons8.com/color/16/000000/react-native.png) and exploring **Next.js** ![NextJs](https://img.icons8.com/color/16/000000/nextjs.png)
+📫 You can reach me via email: [emonsingha209@gmail.com](mailto:emonsingha209@gmail.com).
 
-![](https://github-readme-stats.vercel.app/api?username=emonsingha209&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=emonsingha209&color=grey&style=for-the-badge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdibAhmed317&repo=RoadSaints-ReactJS)](https://github.com/AdibAhmed317/RoadSaints-ReactJS)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonsingha209&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdibAhmed317&repo=RoadSaints-ReactJS&theme=dark)](https://github.com/AdibAhmed317/RoadSaints-ReactJS)
