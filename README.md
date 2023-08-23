@@ -21,7 +21,7 @@ You can reach me via email: [emonsingha209@gmail.com](mailto:emonsingha209@gmail
 </p>
 
 ## Collaborative Projects
-Check out my collaborative projects involving multiple developers!
+*Check out my collaborative projects involving multiple developers!*
 
 | [![RoadSaints-ReactJS](https://github-readme-stats.vercel.app/api/pin/?username=AdibAhmed317&repo=RoadSaints-ReactJS&theme=dark)](https://github.com/AdibAhmed317/RoadSaints-ReactJS) | [![Nutrition-and-Workout-System](https://github-readme-stats.vercel.app/api/pin/?username=Ratul41Bhatt&repo=Nutrition-and-Workout-System&theme=dark)](https://github.com/Ratul41Bhatt/Nutrition-and-Workout-System) |
 |:---:|:---:|
