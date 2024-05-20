@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-emonsingha.vercel.app-red?style=flat-square">
 </a>  
 <a href="https://emonsingha.vercel.app/resume">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/emon-singha209/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
