@@ -29,9 +29,9 @@
 
 * 💻  Passionate Frontend Developer dedicated to creating immersive UI experiences that resonate with users. 
 
-### 🖥️ Open-Source Projects
+### 🖥️ Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Web Development </th></tr>
 <tr><td>
 
 |Title | Role | Technologies|
@@ -40,8 +40,6 @@
 
 </td></tr> </table>
 
-<details>
-<summary>📈 Stats</summary>
 <br>
 My Github Stats
 
@@ -56,4 +54,3 @@ Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gzuyg6pmldhpme7zik3oi6y4sa&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31gzuyg6pmldhpme7zik3oi6y4sa)
 
-</details>
