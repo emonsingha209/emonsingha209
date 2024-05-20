@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/emonsingha209">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Emon+Singha;Frontend+Developer+%7C+ReactJS+%7C+Next.js;AI+%7C+TailwindCSS+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Emon+Singha;Frontend+Developer+%7C+ReactJS+%7C+Next.js;+%7C+TailwindCSS+%7C+Responsive+Design" alt="Typing SVG" />
 </a>
 <br/>
 
