@@ -1,40 +1,59 @@
-# Hi there, I'm Emon Singha! 👋
-
-👨‍💻 Working with **ReactJS** ![ReactJs](https://img.icons8.com/color/16/000000/react-native.png) and exploring **Next.js** ![NextJs](https://img.icons8.com/color/16/000000/nextjs.png)
-
-You can reach me via email: [emonsingha209@gmail.com](mailto:emonsingha209@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=emonsingha209&color=grey&style=for-the-badge)
-
-## GitHub Stats
 <p align="center">
-   <table>
-      <tr>
-         <th>Profile stats</th>
-         <th>Language Contribution</th>
-      </tr>
-      <tr>
-         <td><img alt="Emon Singha :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=emonsingha209&show_icons=true&theme=dark"></td>
-         <td><img alt="Emon Singha :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonsingha209&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
-      </tr>
-   </table>
+<a href="https://github.com/emonsingha209">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://emonsingha.vercel.app">
+    <img src="https://img.shields.io/badge/Website-emonsingha.vercel.app-red?style=flat-square">
+</a>  
+<a href="https://emonsingha.vercel.app/resume">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/emon-singha209/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:emonsingha209@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<br/> 
+
+<a href="https://github.com/emonsingha209">
+    <img src="https://github-stats-alpha.vercel.app/api?username=emonsingha209&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=emonsingha209&theme=dark&hide_border=false)<br/>
+* 🎓 Bachelor of Science in Computer Science & Engineering @ [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
 
-## Collaborative Projects
-*Check out my collaborative projects involving multiple developers!*
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-  <a href="https://github.com/AdibAhmed317/RoadSaints-ReactJS" style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdibAhmed317&repo=RoadSaints-ReactJS&theme=dark" alt="RoadSaints-ReactJS">
-  </a>
-  <a href="https://github.com/AdibAhmed317/RoadSaints-ASPDotNet" style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdibAhmed317&repo=RoadSaints-ASPDotNet&theme=dark" alt="RoadSaints-ASPDotNet">
-  </a>
-  <a href="https://github.com/Ratul41Bhatt/Nutrition-and-Workout-System" style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ratul41Bhatt&repo=Nutrition-and-Workout-System&theme=dark" alt="Nutrition-and-Workout-System">
-  </a>
-</div>
+* 💻  Passionate Frontend Developer dedicated to creating immersive UI experiences that resonate with users. 
 
-Feel free to explore these projects!
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><td>
 
+|Title | Role | Technologies|
+|--|--|--|
+| [Merlin Tech BD](https://www.merlintechbd.com/) | <p>Frontend Developer</p> | ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript) ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+
+</td></tr> </table>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonsingha209&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonsingha209&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonsingha209&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gzuyg6pmldhpme7zik3oi6y4sa&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+
+</details>
