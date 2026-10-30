@@ -17,7 +17,7 @@
  
 Software Engineer based in Sylhet, Bangladesh, focused on frontend development with React and Next.js, and comfortable across the stack with Node.js, Express, and both SQL and NoSQL databases. I turn product and design requirements into polished, production-ready interfaces, and I care about code that stays maintainable as products grow.
  
-- 💼 Software Engineer L1 at [SJ Innovation LLC](https://sjinnovation.com/), promoted three times in two years, from intern to engineer
+- 💼 Software Engineer L1 at [SJ Innovation LLC](https://sjinnovation.com/)
 - 🤖 Building AI-powered products with the OpenAI APIs: conversational agents, streaming responses, and editorial workflows
 - 🎓 B.Sc. in Computer Science & Engineering, [AIUB](https://www.aiub.edu/) (2020–2023)
 - 📫 Open to collaborations, so feel free to reach out
@@ -79,8 +79,11 @@ High-fidelity frontend implementation · Scalable, maintainable web apps · Clea
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emonsingha209&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonsingha209&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonsingha209&theme=tokyonight" alt="Profile details" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonsingha209&theme=tokyonight" alt="Repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonsingha209&theme=tokyonight" alt="Most commit language" />
 </p>
 ---
  
