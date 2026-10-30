@@ -103,20 +103,19 @@ Previously progressed through:
 **aamra infotainment ltd** — Intern Web Developer  
 `September 2023 – December 2023`
 
-### 📊 GitHub Statistics
+## 📊 GitHub at a Glance
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonsingha209&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonsingha209&theme=github_dark" alt="Repositories by Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonsingha209&theme=github_dark" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emonsingha209&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="glancecard/profile-dark.svg"
+  />
+  <img
+    src="glancecard/profile-light.svg"
+    width="100%"
+    alt="Emon Singha's GitHub activity"
+  />
+</picture>
 
 ---
 
